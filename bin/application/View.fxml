@@ -11,9 +11,9 @@
          <children>
             <HBox alignment="CENTER" layoutY="150.0" prefHeight="100.0" prefWidth="400.0" spacing="30.0">
                <children>
-                  <Button fx:id="red" mnemonicParsing="false" onAction="#detectarR" text="Rojo" />
-                  <Button fx:id="green" mnemonicParsing="false" onAction="#detectarG" text="Verde" />
-                  <Button fx:id="blue" mnemonicParsing="false" onAction="#detectarB" text="Azul" />
+                  <Button fx:id="red" mnemonicParsing="false" onAction="#detectarR" text="Rojo +" />
+                  <Button fx:id="green" mnemonicParsing="false" onAction="#detectarG" text="Verde -" />
+                  <Button fx:id="blue" mnemonicParsing="false" onAction="#detectarB" text="Azul *" />
                </children>
             </HBox>
          </children>
